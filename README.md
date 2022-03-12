@@ -19,3 +19,12 @@ In this jupyter notebook I documented web scraping and exploratory data analysis
 ## What is the need of Selenium?
 
 Some websites don't like to be scrapped and in that case you need to disguise your webscraping bot as a Human Being.
+
+## Data Scraped from Myntra website
+![image](https://github.com/tridevbhansali/Python_end_to_end_project/blob/main/Scraped%20data.png)
+
+## Data Visualization
+### Top 10 Brands with Highest Price
+![image](https://github.com/tridevbhansali/Python_end_to_end_project/blob/main/highest%20price.png)
+### Brand Pricing and Discount Relation
+![image](https://github.com/tridevbhansali/Python_end_to_end_project/blob/main/correlation.png)
